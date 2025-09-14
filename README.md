@@ -55,11 +55,3 @@ Report → Results saved for staff in dashboard with history.
 ├── prisma/            # DB schema
 ├── utils/             # Perplexity model, checkers
 ├── public/            # Assets
-
-📄 License
-MIT License. You're free to use, extend, and share — with attribution.
-
-👨‍💻 Author
-Made with ❤️ by Arman Datt
-Bennett University | 1st Year | CS-AI
-GitHub • LinkedIn
