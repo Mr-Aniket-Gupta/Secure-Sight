@@ -20,7 +20,7 @@
     "fflate": "^0.8.2",
     "fs": "^0.0.1-security",
     "googleapis": "^148.0.0",
-    "hono": "^4.7.4",
+    "hono": "^4.10.3",
     "http": "^0.0.1-security",
     "https": "^1.0.0",
     "jszip": "^3.10.1",
